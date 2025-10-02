@@ -2,6 +2,18 @@
 
 This project is an **interactive Fintech KPI Dashboard** built with Excel (and WPS/Office).  
 It highlights key metrics like **Revenue, ARPU, Churn, LTV**, and fraud detection by country.
+---
+
+## 🌟 Project Highlights
+
+- Automated **Fintech KPI Dashboards** (Excel + Slicers + Charts).
+- End-to-end **data pipeline**: SQL → Python → Excel.
+- KPIs covered: **CAC, LTV, ARPU, Churn, Revenue**.
+- **Fraud detection** by country using SQL + Python.
+- 📊 Professional visualizations with executive-ready layout.
+- 🔗 Downloadable dashboards + GitHub-hosted screenshots.
+
+---
 
 ---
 
@@ -62,6 +74,10 @@ You can download and explore the Excel dashboards here:
 ![Python](https://img.shields.io/badge/Python-Automation-3776AB?logo=python&logoColor=white)  
 ![Tableau](https://img.shields.io/badge/Tableau-Visualization-E97627?logo=tableau&logoColor=white)  
 
----
+![GitHub Repo stars](https://img.shields.io/github/stars/FATIMA-FARMAN/automated-fintech-kpis?style=social)
+![GitHub forks](https://img.shields.io/github/forks/FATIMA-FARMAN/automated-fintech-kpis?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/FATIMA-FARMAN/automated-fintech-kpis?style=flat&color=blue)
+
+
 
 
