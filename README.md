@@ -55,4 +55,13 @@ You can download and explore the Excel dashboards here:
 [![Download Final Dashboard](https://img.shields.io/badge/📊_Download-Final_Dashboard-blue?style=for-the-badge)](loyalty-insights-dashboard/dashboards/fintech_reporting_dashboard_FINAL.xlsx?raw=1)
 
 [![Download Linked Dashboard](https://img.shields.io/badge/📊_Download-Linked_Slicers_Version-green?style=for-the-badge)](loyalty-insights-dashboard/dashboards/fintech_reporting_dashboard_FINAL_LINKED.xlsx?raw=1)
+# 📊 Fintech KPI Dashboard  
+
+![Excel](https://img.shields.io/badge/Excel-Dashboards-217346?logo=microsoft-excel&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-Queries-336791?logo=postgresql&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-Automation-3776AB?logo=python&logoColor=white)  
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-E97627?logo=tableau&logoColor=white)  
+
+---
+
 
